@@ -32,7 +32,7 @@ Then it can be run. There is an output log through the console specifying the nu
 
 The code outputs two txt files: eos_TASPP.txt and eos_quant.txt.
 
-The _TASPP file contains all the parameters needed to construct the T-ASPP model. The output is in the format of the eos.par file that the TOV solver and the numeric hydrodynamics in this repository use.
+The _TASPP file contains all the parameters needed to construct the T-ASPP model. The output is in the format of the eos.par file that the TOV solver (https://github.com/PhoenixBirdCreations/TOVsolver) and the numeric hydrodynamics (https://github.com/PhoenixBirdCreations/SRHDnumeric) in this repository use.
 
 The _quant file contains five columns: 
 
