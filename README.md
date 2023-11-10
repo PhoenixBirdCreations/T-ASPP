@@ -26,7 +26,7 @@ The code is compiled with
 
 gcc -o taspp main.c EOS_cold.c exportFiles.c findPT.c fitModels.c fitPolytropes.c -lm
 
-Then it can be run. There is an output log through the console specifying the number of phase transitions found and their location, as well as the information of the fitting polytropes and the polynomials models.
+Then it can be run. There is an output log through the console specifying the number of phase transitions found and their location, as well as the information of the fitting polytropes and the polynomial models.
 
 ## Output of the code.
 
